@@ -1,2 +1,2 @@
 # bgamecho.github.io
-Testing a Github pages
+Testing Github pages 
